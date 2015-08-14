@@ -409,8 +409,17 @@ td.modified-col {
   text-decoration: none;
 }
 
-.file-search .search {
-  width: 155px;
+
+.file-search {
+  min-width: 230px;
+
+  .block-form {
+    display: block;
+  }
+
+  .search {
+    width: 155px;
+  }
 }
 
 .file-hover-overlay {
