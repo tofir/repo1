@@ -1,0 +1,6 @@
+# bla bla bla text
+class NewTest
+  def index
+    pust 'index'
+  end
+end
